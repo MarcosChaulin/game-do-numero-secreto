@@ -1,3 +1,4 @@
+alert('Confirme no botão Allow para confimar o som na pagina!!');
 let listaDeNumerosSorteados = [];
 let limiteDeNumerosNaLista = 10;
 let numeroSecreto = gerarNumeroAleatorio();
